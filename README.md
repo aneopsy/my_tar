@@ -1,7 +1,7 @@
 # my_tar
 Rush de Elementary Programming in C
 
-**Note:**
+**Note:** 17/20
 
 - Si une note est donnée ici ne pas faire les autres questions (0 / 0) : 
 Un très bon rush dans l'ensemble ! 
