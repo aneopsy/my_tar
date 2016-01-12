@@ -20,4 +20,4 @@ aucun leaks, tous les frees sont faits !
 - Valeurs de retour (0 / 0) : 
 tous les appels systemes sont vérifiés, c'est du bon boulot! 
 
-SegFault / Bus Error / Floating Exeption ? (0 / 0) :
+- SegFault / Bus Error / Floating Exeption ? (0 / 0) :
