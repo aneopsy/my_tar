@@ -21,7 +21,7 @@ aucun leaks, tous les frees sont faits !
 tous les appels systemes sont vérifiés, c'est du bon boulot! 
 
 - SegFault / Bus Error / Floating Exeption ? (0 / 0) :
-- 
+
 
 **Usage :**
 ./my_tar [-cxvftp] TAR [FILES]
